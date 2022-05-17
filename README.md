@@ -16,7 +16,11 @@ Skills: UNITY / C# / PYHTON / HTML / CSS / JS
 
 [<img src='https://raw.githubusercontent.com/BerkayCaglar/BerkayCaglar/main/pngwing.com.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/berkay-%C3%A7a%C4%9Flar-7b0297228/)
 
-[<img src='https://w7.pngwing.com/pngs/642/372/png-transparent-link-in-logo-linkedin-logo-linkedin-icons-no-attribution-miscellaneous-blue-angle.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/berkay-çağlar-7b0297228/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/berkayxc/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCq28KzukHcXffmEUkiLBvJw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg' alt='soundcloud' height='40'>](https://soundcloud.com/berkaycaglarr)  
+[<img src='https://raw.githubusercontent.com/BerkayCaglar/BerkayCaglar/main/pngwing.com(1).png' alt='instagram' height='40'>](https://www.instagram.com/berkayxc/) 
+
+[<img src='https://raw.githubusercontent.com/BerkayCaglar/BerkayCaglar/main/pngwing.com(2).png' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCq28KzukHcXffmEUkiLBvJw) 
+
+[<img src='https://raw.githubusercontent.com/BerkayCaglar/BerkayCaglar/main/pngwing.com(3).png' alt='soundcloud' height='40'>](https://soundcloud.com/berkaycaglarr)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BerkayCaglar)](https://github.com/anuraghazra/github-readme-stats)
 
