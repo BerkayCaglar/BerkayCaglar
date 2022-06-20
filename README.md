@@ -1,6 +1,7 @@
 ### Hi there 👋, Berkay Çağlar
 #### Junior Programmer & Game Developer
 
+(https://www.niit.com/india/sites/default/files/2021-05/Game-Development-01.jpg)
 A large part of my life has been spent with computers and I have improved myself with programs, research and projects since I was a child.
 I continued to strive to specialize further in this area.
 I brought myself to a certain level in all aspects of the software and mastered the Syntax format of most languages.
