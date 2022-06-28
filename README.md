@@ -1,5 +1,5 @@
 ### Hi there 👋, Berkay Çağlar
-#### Junior Programmer & Game Developer
+#### Junior Programmer
 
 A large part of my life has been spent with computers and I have improved myself with programs, research and projects since I was a child.
 I continued to strive to specialize further in this area.
