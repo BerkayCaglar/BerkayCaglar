@@ -18,3 +18,5 @@ Skills: UNITY / C# / PYHTON / HTML / CSS / JS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BerkayCaglar)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BerkayCaglar)
+
+![snake gif](https://github.com/BerkayCaglar/BerkayCaglar/blob/output/github-contribution-grid-snake.gif)
