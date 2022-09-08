@@ -7,7 +7,7 @@ I brought myself to a certain level in all aspects of the software and mastered 
 The languages ​​that I have developed myself in this regard are as follows; HTML, CSS, PHP, JAVASCRIPT, Python, C , C++, C#, MYSQL, MSSQL, Flutter, Dart and Unity.
 I always continue to research and develop myself to be a sought-after software developer in this sector.
 
-Skills: UNITY / C# / PYHTON / HTML / CSS / JS
+Skills: UNITY / C# / PYHTON
 
 - 🔭 I’m currently working on https://github.com/BerkayCaglar/Cargo-Delivery
 - 🌱 I’m currently learning Unity3D 
