@@ -3,7 +3,7 @@
 
 As a Junior Unity game developer, I am proficient in Unity game engine and C# programming language, and I am eager to learn and grow as a developer. I have experience working in a team environment and am a quick learner. My portfolio includes several personal projects that I have developed using Unity and C#. I am excited to bring my skills and enthusiasm to a company as a Junior Unity game developer and to continue to learn and improve in the field.
 
-Skills: UNITY / C# / PYHTON
+Skills: UNITY / C#
 
 - 🔭 I’m currently working on Unity
 - 📫 How to reach me: berkay_caglar123@hotmail.com 
